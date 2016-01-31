@@ -1,0 +1,4 @@
+c:\users\ivan\documents\visual studio 2013\toto\Lottery\Combinatorics\bin\Debug\Combinatorics.dll
+c:\users\ivan\documents\visual studio 2013\toto\Lottery\Combinatorics\bin\Debug\Combinatorics.pdb
+c:\users\ivan\documents\visual studio 2013\toto\Lottery\Combinatorics\obj\Debug\Combinatorics.dll
+c:\users\ivan\documents\visual studio 2013\toto\Lottery\Combinatorics\obj\Debug\Combinatorics.pdb
